@@ -2,7 +2,7 @@
 
 Collection of my byte sized notes on programming and other random topics.
 
-[View Online](https://notes.rajivharlalka.me)
+[View Online](https://notes.rajivharlalka.tech)
 
 ## Local Setup
 
