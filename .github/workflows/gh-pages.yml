@@ -43,5 +43,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
-          cname: notes.rajivharlalka.me
+          cname: notes.rajivharlalka.tech
 
