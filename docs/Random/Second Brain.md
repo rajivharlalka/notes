@@ -1,0 +1,2 @@
+- https://wiki.nikiv.dev/
+- https://github.com/sywxio/brain

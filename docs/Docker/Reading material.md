@@ -1,1 +1,0 @@
-- [Learn Docker: Container training](https://container.training/intro-selfpaced.yml.html)

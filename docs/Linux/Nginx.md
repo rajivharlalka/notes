@@ -13,7 +13,7 @@ cd /etc/nginx/sites-available
 sudo nano <domain_name eg: imagery.rajivharlalka.me>
 ```
 
-Nginx config of http server
+Simple Nginx config of http server
 
 ```nginx
 server {
@@ -27,6 +27,7 @@ server {
         location / {
                     proxy_pass http://127.0.0.1:3000;
   }
+}
 ```
 
 - save and exit
@@ -65,3 +66,4 @@ sudo certbot --nginx -d <domain-name>
 ```
 
 This should do everything.
+

@@ -48,6 +48,7 @@ plugins:
   - minify:
       minify_html: true
   - roamlinks
+  - tags
 
 extra:
   social:

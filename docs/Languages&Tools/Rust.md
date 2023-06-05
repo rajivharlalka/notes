@@ -1,0 +1,4 @@
+- It has a special kind of switch statement called match, which does the same think as that of a switch.
+- Vector's in rust are known as collections. They can be iterated over. Anything that can be looped through can be considered as a collection.
+- In Rust assignment(assigning value using =) is considered to be moving values and not copying.
+- To pass data as reference, we need to use the & operator to assign same value to variable in reference.

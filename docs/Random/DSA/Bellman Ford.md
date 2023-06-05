@@ -1,0 +1,3 @@
+- change occurs when relaxing edges.
+- Relax all Edges |V| - 1 times
+- Time Complexity, O(V.E)
